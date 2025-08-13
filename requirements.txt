@@ -1,0 +1,14 @@
+# Revenue Bench Requirements
+# Python 3.9+ required
+
+# Core dependencies
+inspect-ai>=0.3.122
+httpx>=0.24.0
+beautifulsoup4>=4.12.0
+python-dotenv>=1.0.0
+pyyaml>=6.0
+pandas>=2.0.0
+
+# Optional but recommended
+tqdm>=4.65.0  # Progress bars
+rich>=13.0.0  # Better terminal output

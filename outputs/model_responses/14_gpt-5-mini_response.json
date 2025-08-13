@@ -1,0 +1,28 @@
+{
+  "model": "gpt-5-mini",
+  "rank": 14,
+  "score": 0.6416666666666667,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "I saw you\u2019ve been VP of Northeast Operations at Bluestone Lane since November 2020 \u2014 curious if Homebase could help cut labor cost and chaos across your Northeast cafes with simpler scheduling and time tracking.",
+        "evidence_url": "https://theorg.com/org/bluestone-lane/org-chart/matthew-christy",
+        "evidence_quote": "Vice President of Northeast Operations at Bluestone Lane since November 2020"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "I noticed at sweetgreen in Los Angeles you\u2019ve been sharing posts about \"technological innovation\" changing how people eat \u2014 curious if Homebase could simplify scheduling and time-tracking across your restaurants.",
+        "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277/",
+        "evidence_quote": "Come be a part of technological innovation while changing how people eat!"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Saw you\u2019re a Regional Sales & Marketing Manager at Massage Envy \u2014 since Massage Envy is a nationwide franchise, wanted to see if Homebase could standardize scheduling, payroll, and compliance across your locations.",
+        "evidence_url": "https://www.datanyze.com/people/Tiffany-Porter/2298070838",
+        "evidence_quote": "Tiffany Porter works as a Regional Sales & Marketing Manager at Massage Envy; Massage Envy is a national franchise"
+      }
+    ]
+  },
+  "tool_calls": 9
+}

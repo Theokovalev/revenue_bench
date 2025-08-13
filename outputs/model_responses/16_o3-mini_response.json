@@ -1,0 +1,28 @@
+{
+  "model": "o3-mini",
+  "rank": 16,
+  "score": 0.6,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Hi Matthew, as VP of Northeast Operations at Bluestone Lane since November 2020, Homebase simplifies scheduling, time tracking, and compliance for multi-location teams.",
+        "evidence_url": "https://theorg.com/org/bluestone-lane/org-chart/matthew-christy",
+        "evidence_quote": "Vice President of Northeast Operations at Bluestone Lane since November 2020"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Hi Isaac, with your role at sweetgreen and UC Santa Barbara background, Homebase can streamline scheduling, payroll, and compliance for multi-location hourly teams.",
+        "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277",
+        "evidence_quote": "Bachelor of Science degree from UC Santa Barbara"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Hi Tiffany, based in Quincy, MA and as Massage Envy's Regional Sales and Marketing Manager, Homebase can reduce labor costs and chaos across your multi-location teams.",
+        "evidence_url": "https://www.linkedin.com/in/tiffany-porter-950b6095",
+        "evidence_quote": "Regional Sales and Marketing Manager at Massage Envy in Quincy, Massachusetts"
+      }
+    ]
+  },
+  "tool_calls": 5
+}

@@ -1,0 +1,28 @@
+{
+  "model": "kimi-k2",
+  "rank": 9,
+  "score": 0.746,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Your 55-location Northeast expansion at Bluestone Lane must create scheduling chaos\u2014how do you currently manage 500+ baristas across NYC, Boston, Philly?",
+        "evidence_url": "https://theorg.com/org/bluestone-lane/org-chart/matthew-christy",
+        "evidence_quote": "Vice President of Northeast Operations at Bluestone Lane since November 2020"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Sweetgreen's 140+ locations scaling fast\u2014are your hourly team schedules still manual like when you posted about 'changing how people eat'?",
+        "evidence_url": "https://rocketreach.co/isaac-reback-email_12994481",
+        "evidence_quote": "Talent Resourcing Specialist at Sweetgreen"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Managing 1,100+ Massage Envy locations' scheduling compliance across regions\u2014how do you track varying state labor laws for therapists?",
+        "evidence_url": "https://www.linkedin.com/in/tiffany-porter-95462095",
+        "evidence_quote": "Regional Sales and Marketing Manager at Massage Envy"
+      }
+    ]
+  },
+  "tool_calls": 8
+}

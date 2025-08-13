@@ -1,0 +1,28 @@
+{
+  "model": "llama-4-maverick",
+  "rank": 27,
+  "score": 0.408,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "As VP Finance at Doc B's Restaurant + Bar and Levy Restaurants, you likely juggle complex scheduling and labor costs - Homebase can help streamline these processes.",
+        "evidence_url": "https://www.linkedin.com/in/matthew-christy-62ba7440/",
+        "evidence_quote": "Vice President Finance at Doc B's Restaurant + Bar and Levy Restaurants"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "At sweetgreen, managing staff scheduling and labor costs is crucial - Homebase offers a comprehensive solution to simplify these tasks.",
+        "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277/",
+        "evidence_quote": "Talent Resourcing Specialist at sweetgreen"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "",
+        "evidence_url": "",
+        "evidence_quote": ""
+      }
+    ]
+  },
+  "tool_calls": 4
+}

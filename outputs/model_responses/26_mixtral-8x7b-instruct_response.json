@@ -1,0 +1,28 @@
+{
+  "model": "mixtral-8x7b-instruct",
+  "rank": 26,
+  "score": 0.429,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "With your extensive finance background, I bet you appreciate the financial insights Homebase provides for multi-location businesses.",
+        "evidence_url": "https://www.linkedin.com/in/matthew-christy-62ba7440/",
+        "evidence_quote": "Vice President Finance at Doc B's Restaurant + Bar and Levy Restaurants"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Your passion for environmental studies and sustainable practices aligns perfectly with Homebase's mission to streamline operations for green businesses like sweetgreen.",
+        "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277/",
+        "evidence_quote": "Bachelor of Science degree from UC Santa Barbara in Environmental Studies"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "As a Regional Operations Manager, I imagine you're always looking for ways to optimize your team. Homebase can help with that.",
+        "evidence_url": "https://www.linkedin.com/in/tiffany-porter-95462095/",
+        "evidence_quote": "Regional Operations Manager at Massage Envy"
+      }
+    ]
+  },
+  "tool_calls": 3
+}

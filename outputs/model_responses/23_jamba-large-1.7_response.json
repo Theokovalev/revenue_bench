@@ -1,0 +1,28 @@
+{
+  "model": "jamba-large-1.7",
+  "rank": 23,
+  "score": 0.454,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Bluestone Lounge's website highlights their commitment to creating a welcoming, Australian-inspired caf\u00e9 experience. Simplify operations for your team with Homebase's scheduling, time tracking, and payroll tools.",
+        "evidence_url": "https://bluestonelane.com/",
+        "evidence_quote": "\"Crafting spaces where people feel at home.\""
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Sweetgreen's career page emphasizes their focus on innovation and sustainability. Homebase can help streamline your team's operations, allowing you to focus on delivering fresh, healthy meals to your customers.",
+        "evidence_url": "https://careers.sweetgreen.com/",
+        "evidence_quote": "\"We're building a more sustainable food system.\""
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Massage Envy's website stresses the importance of providing exceptional client experiences. Homebase can help your team deliver consistent, high-quality service with efficient scheduling and time tracking.",
+        "evidence_url": "https://www.massageenvy.com/",
+        "evidence_quote": "\"Your wellness is our priority.\""
+      }
+    ]
+  },
+  "tool_calls": 0
+}

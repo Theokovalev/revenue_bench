@@ -1,0 +1,28 @@
+{
+  "model": "claude-opus-4",
+  "rank": 4,
+  "score": 0.7875,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Matthew, with Bluestone Lane adding 15 locations this year across the Northeast, managing hourly staff scheduling must be getting complex.",
+        "evidence_url": "https://rseventures.com/bluestone-lane-cafe-plans-massive-expansion/",
+        "evidence_quote": "Australian-inspired New York-based coffee roaster and cafe, Bluestone Lane,will open up to 15 locations this year"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Isaac, noticed sweetgreen's expanding into Ohio with multiple locations planned\u2014coordinating hiring and onboarding across new markets must be intense.",
+        "evidence_url": "https://careers.sweetgreen.com/jobs/5971212?gh_jid=5971212&ref=levels.fyi&utm_source=levels.fyi",
+        "evidence_quote": "Sweetgreen's first Ohio location is opening in 2024! While we are fully staffed for our first location, we have exciting plans for further Columbus expansion in 2025 and beyond."
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Tiffany, saw PCRK just acquired 36 more Massage Envy locations\u2014managing operations across that many new sites sounds challenging.",
+        "evidence_url": "https://www.prnewswire.com/news-releases/pcrk-group-adds-36-massage-envy-locations-to-their-portfolio-becoming-the-largest-franchisee-302239744.html",
+        "evidence_quote": "PCRK Group, a leading provider of high-quality skincare and body care services, is thrilled to announce the acquisition of 36 Massage Envy locations, with 35 in Texas and one in New Mexico."
+      }
+    ]
+  },
+  "tool_calls": 9
+}

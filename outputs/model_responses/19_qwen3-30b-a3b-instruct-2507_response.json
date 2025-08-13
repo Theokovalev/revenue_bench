@@ -1,0 +1,28 @@
+{
+  "model": "qwen3-30b-a3b-instruct-2507",
+  "rank": 19,
+  "score": 0.513,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Hi Matthew, I noticed Bluestone Lane has been expanding in the Northeast \u2014 love your focus on community and quality. Homebase can help streamline labor operations across all your locations.",
+        "evidence_url": "https://www.bluestonelane.com/about-us",
+        "evidence_quote": "Bluestone Lane expanding in Northeast"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Hi Isaac, saw sweetgreen\u2019s commitment to sustainability and team culture. Homebase makes it easy for multi-location teams to manage scheduling, time tracking, and labor law compliance.",
+        "evidence_url": "https://www.sweetgreen.com/careers",
+        "evidence_quote": "Sweetgreen sustainability and team culture"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Hi Tiffany, noticed your role at Massage Envy involves regional operations \u2014 Homebase can help simplify scheduling, payroll, and labor-law compliance across all your locations.",
+        "evidence_url": "https://www.massageenvy.com/about-us",
+        "evidence_quote": "Massage Envy regional operations"
+      }
+    ]
+  },
+  "tool_calls": 0
+}

@@ -1,0 +1,28 @@
+{
+  "model": "gemini-2.5-flash",
+  "rank": 3,
+  "score": 0.7999999999999999,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Saw Bluestone Lane has grown to 58 locations! With that many, managing hourly teams across all of them must be a huge undertaking. How are you currently handling that?",
+        "evidence_url": "https://bluestonelane.com/press/named-among-restaurant-business-fastest-growing/",
+        "evidence_quote": "It has since grown to 58 locations and has plans for more."
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "With sweetgreen expanding to over 225 locations across the U.S., I imagine you're constantly hiring. How are you streamlining onboarding and labor compliance across all those new hires?",
+        "evidence_url": "https://careers.sweetgreen.com/faq/what-is-sweetgreen-",
+        "evidence_quote": "Since opening our first 560-square-foot location in 2007, we have expanded to over 225 locations across the U.S."
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Knowing Massage Envy has over 1,176 locations, I can only imagine the complexities of managing regional operations. How do you ensure consistent scheduling and compliance across so many sites?",
+        "evidence_url": "https://www.franchisesolutions.com/franchise/massage-envy",
+        "evidence_quote": "Today Massage Envy has more that 1,176+ locations in 49 U.S. states and 2 international, making it the largest massage therapy and skincare franchise in the industry"
+      }
+    ]
+  },
+  "tool_calls": 12
+}

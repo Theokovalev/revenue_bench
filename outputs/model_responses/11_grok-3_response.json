@@ -1,0 +1,28 @@
+{
+  "model": "grok-3",
+  "rank": 11,
+  "score": 0.725,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Matthew, with Bluestone Lane\u2019s 20th NYC location on West Broadway, managing multi-site teams must be complex\u2014Homebase can simplify scheduling and compliance.",
+        "evidence_url": "https://tribecacitizen.com/2021/07/22/new-kid-on-the-block-bluestone-lane/",
+        "evidence_quote": "This is the chain\u2019s 20th (!) location in the city despite taking a huge hit during covid."
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Isaac, with sweetgreen\u2019s 916 locations, including 180 in NY, staffing must be a challenge\u2014Homebase streamlines scheduling and payroll for multi-site teams.",
+        "evidence_url": "https://www.scrapehero.com/location-reports/Sweetgreen-USA/",
+        "evidence_quote": "There are 916 Sweetgreen restaurants in the United States as of June 23, 2025... New York, with 180 restaurants."
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Tiffany, with Massage Envy\u2019s nationwide footprint, operations must be demanding\u2014Homebase cuts labor chaos with simple scheduling and compliance tools.",
+        "evidence_url": "https://www.massageenvy.com/about-us?srsltid=AfmBOop40MFr-AbfOfoUj7ydrvTVxCAzjUOPCOuzWdHV-FSXwvFDzBCb",
+        "evidence_quote": "Massage Envy is a nationwide wellness franchise providing massage, stretch, and skin care services."
+      }
+    ]
+  },
+  "tool_calls": 8
+}

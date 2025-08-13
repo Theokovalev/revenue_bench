@@ -1,0 +1,28 @@
+{
+  "model": "claude-opus-4.1",
+  "rank": 1,
+  "score": 0.8250000000000001,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Matthew, managing 52+ Bluestone Lane locations across the Northeast must require incredible coordination - how are you handling scheduling across all those cafes?",
+        "evidence_url": "https://rseventures.com/bluestone-lane-cafe-plans-massive-expansion/",
+        "evidence_quote": "Bluestone Lane operates 52 coffee shops and caf\u00e9s across the U.S. and Canada"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Isaac, with sweetgreen opening 23-27 new locations this year, your talent resourcing role must be incredibly busy - how are you managing hourly staffing across that expansion?",
+        "evidence_url": "https://www.investing.com/news/stock-market-news/earnings-call-sweetgreen-reports-robust-q1-growth-plans-expansion-93CH-3435757",
+        "evidence_quote": "For the fiscal year 2024, we updated our guidance to reflect the strength of the first quarter, 23 to 27 net new restaurant openings"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Tiffany, with PCRK Group's recent acquisition of 36 Massage Envy locations, regional operations management must be evolving rapidly - how are you coordinating staffing across multiple franchisees?",
+        "evidence_url": "https://finance.yahoo.com/news/pcrk-group-adds-36-massage-162500638.html",
+        "evidence_quote": "PCRK Group, a leading provider of high-quality skincare and body care services, is thrilled to announce the acquisition of 36 Massage Envy locations"
+      }
+    ]
+  },
+  "tool_calls": 15
+}

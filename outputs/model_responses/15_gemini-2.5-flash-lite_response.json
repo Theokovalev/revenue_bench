@@ -1,0 +1,28 @@
+{
+  "model": "gemini-2.5-flash-lite",
+  "rank": 15,
+  "score": 0.629,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Congrats on your role as VP of Northeast Operations at Bluestone Lane since Nov 2020! Hope scheduling and time tracking are running smoothly across your cafes.",
+        "evidence_url": "https://theorg.com/org/bluestone-lane/org-chart/matthew-christy",
+        "evidence_quote": "Matthew Christy currently serves as Vice President of Northeast Operations at Bluestone Lane since November 2020"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Hi Isaac, great to see your environmental studies background from UC Santa Barbara! How are you managing labor compliance and scheduling for sweetgreen's teams?",
+        "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277",
+        "evidence_quote": "I hold a Bachelor of Science degree from UC Santa Barbara in Environmental Studies"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Tiffany, congrats on your role as Regional Sales and Marketing Manager at Massage Envy! Are you finding it easy to manage scheduling and labor costs across locations?",
+        "evidence_url": "https://www.linkedin.com/in/tiffany-porter-95462095",
+        "evidence_quote": "Regional Sales and Marketing Manager at Massage Envy"
+      }
+    ]
+  },
+  "tool_calls": 5
+}

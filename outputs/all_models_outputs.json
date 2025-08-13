@@ -1,0 +1,352 @@
+[
+  {
+    "rank": 1,
+    "model": "claude-opus-4.1",
+    "full_model": "openrouter/anthropic/claude-opus-4.1",
+    "timestamp": "2025-08-12T20-42-00",
+    "score": 0.8250000000000001,
+    "cost": 2.0919524156,
+    "performance_per_dollar": 0.39436843488783613,
+    "total_tokens": 130532,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Matthew, managing 52+ Bluestone Lane locations across the Northeast must require incredible coordination - how are you handling scheduling across all those cafes?",
+          "evidence_url": "https://rseventures.com/bluestone-lane-cafe-plans-massive-expansion/",
+          "evidence_quote": "Bluestone Lane operates 52 coffee shops and caf\u00e9s across the U.S. and Canada"
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "Isaac, with sweetgreen opening 23-27 new locations this year, your talent resourcing role must be incredibly busy - how are you managing hourly staffing across that expansion?",
+          "evidence_url": "https://www.investing.com/news/stock-market-news/earnings-call-sweetgreen-reports-robust-q1-growth-plans-expansion-93CH-3435757",
+          "evidence_quote": "For the fiscal year 2024, we updated our guidance to reflect the strength of the first quarter, 23 to 27 net new restaurant openings"
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Tiffany, with PCRK Group's recent acquisition of 36 Massage Envy locations, regional operations management must be evolving rapidly - how are you coordinating staffing across multiple franchisees?",
+          "evidence_url": "https://finance.yahoo.com/news/pcrk-group-adds-36-massage-162500638.html",
+          "evidence_quote": "PCRK Group, a leading provider of high-quality skincare and body care services, is thrilled to announce the acquisition of 36 Massage Envy locations"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 2,
+    "model": "gpt-5",
+    "full_model": "openrouter/openai/gpt-5",
+    "timestamp": "2025-08-12T20-24-48",
+    "score": 0.8208333333333333,
+    "cost": 0.0801284795,
+    "performance_per_dollar": 10.243964923025068,
+    "total_tokens": 80827,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Impressed Bluestone Lane rolled out Square across 65 locations\u2014are you also simplifying scheduling, time clocks, and compliance for your Northeast cafes? Homebase cuts labor cost and chaos across multi-location hourly teams.",
+          "evidence_url": "https://www.restaurantdive.com/spons/why-bluestone-lane-switched-to-square-to-run-its-65-locations/749768/",
+          "evidence_quote": "Bluestone Lane recently updated its legacy point-of-sale system and rolled out Square\u2019s all-in-one technology platform across its 65 locations."
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "With sweetgreen at 246 restaurants by FY 2024, how are you standardizing scheduling and time tracking as you scale? Homebase helps multi-location hourly teams cut labor cost and compliance chaos.",
+          "evidence_url": "https://www.qsrmagazine.com/growth/finance/automation-unpacks-the-infinite-potential-of-sweetgreen/",
+          "evidence_quote": "Since its 2021 IPO, Sweetgreen has climbed to 246 restaurants (fiscal year-end 2024)."
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "With Massage Envy\u2019s 1,176+ locations across 49 states, how are you keeping scheduling, time clocks, and labor-law compliance consistent regionally? Homebase helps cut labor cost and chaos for multi-location hourly teams.",
+          "evidence_url": "https://www.franchisesolutions.com/franchise/massage-envy",
+          "evidence_quote": "Today Massage Envy has more that 1,176+ locations in 49 U.S. states and 2 international"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 3,
+    "model": "gemini-2.5-flash",
+    "full_model": "openrouter/google/gemini-2.5-flash",
+    "timestamp": "2025-08-12T20-52-21",
+    "score": 0.7999999999999999,
+    "cost": 0.08431022683968001,
+    "performance_per_dollar": 9.488765835267396,
+    "total_tokens": 51052,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Saw Bluestone Lane has grown to 58 locations! With that many, managing hourly teams across all of them must be a huge undertaking. How are you currently handling that?",
+          "evidence_url": "https://bluestonelane.com/press/named-among-restaurant-business-fastest-growing/",
+          "evidence_quote": "It has since grown to 58 locations and has plans for more."
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "With sweetgreen expanding to over 225 locations across the U.S., I imagine you're constantly hiring. How are you streamlining onboarding and labor compliance across all those new hires?",
+          "evidence_url": "https://careers.sweetgreen.com/faq/what-is-sweetgreen-",
+          "evidence_quote": "Since opening our first 560-square-foot location in 2007, we have expanded to over 225 locations across the U.S."
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Knowing Massage Envy has over 1,176 locations, I can only imagine the complexities of managing regional operations. How do you ensure consistent scheduling and compliance across so many sites?",
+          "evidence_url": "https://www.franchisesolutions.com/franchise/massage-envy",
+          "evidence_quote": "Today Massage Envy has more that 1,176+ locations in 49 U.S. states and 2 international, making it the largest massage therapy and skincare franchise in the industry"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 4,
+    "model": "claude-opus-4",
+    "full_model": "openrouter/anthropic/claude-opus-4",
+    "timestamp": "2025-08-12T20-45-30",
+    "score": 0.7875,
+    "cost": 0.98269796974584,
+    "performance_per_dollar": 0.8013652457261868,
+    "total_tokens": 56735,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Matthew, with Bluestone Lane adding 15 locations this year across the Northeast, managing hourly staff scheduling must be getting complex.",
+          "evidence_url": "https://rseventures.com/bluestone-lane-cafe-plans-massive-expansion/",
+          "evidence_quote": "Australian-inspired New York-based coffee roaster and cafe, Bluestone Lane,will open up to 15 locations this year"
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "Isaac, noticed sweetgreen's expanding into Ohio with multiple locations planned\u2014coordinating hiring and onboarding across new markets must be intense.",
+          "evidence_url": "https://careers.sweetgreen.com/jobs/5971212?gh_jid=5971212&ref=levels.fyi&utm_source=levels.fyi",
+          "evidence_quote": "Sweetgreen's first Ohio location is opening in 2024! While we are fully staffed for our first location, we have exciting plans for further Columbus expansion in 2025 and beyond."
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Tiffany, saw PCRK just acquired 36 more Massage Envy locations\u2014managing operations across that many new sites sounds challenging.",
+          "evidence_url": "https://www.prnewswire.com/news-releases/pcrk-group-adds-36-massage-envy-locations-to-their-portfolio-becoming-the-largest-franchisee-302239744.html",
+          "evidence_quote": "PCRK Group, a leading provider of high-quality skincare and body care services, is thrilled to announce the acquisition of 36 Massage Envy locations, with 35 in Texas and one in New Mexico."
+        }
+      ]
+    }
+  },
+  {
+    "rank": 7,
+    "model": "grok-4",
+    "full_model": "openrouter/x-ai/grok-4",
+    "timestamp": "2025-08-12T20-56-15",
+    "score": 0.775,
+    "cost": 0.3114083479148799,
+    "performance_per_dollar": 2.4886937206058386,
+    "total_tokens": 65493,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Congrats on Bluestone Lane's growth to 65 locations across 10 markets \u2013 as VP of Northeast Operations, managing teams must be intense. Homebase simplifies scheduling and payroll for multi-location hourly crews.",
+          "evidence_url": "https://dailycoffeenews.com/2024/10/29/new-ceo-for-new-york-based-coffee-chain-bluestone-lane/",
+          "evidence_quote": "Stone oversaw Bluestone Lane\u2019s growth from a single location to the current 65 locations in 10 U.S. markets."
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "Impressive that sweetgreen has over 140 locations across 13 states now \u2013 as Talent Resourcing Specialist, staffing those spots must keep you busy. Homebase cuts chaos with easy time tracking and compliance.",
+          "evidence_url": "https://www.sweetgreen.com/rewrite-the-future-of-food-with-us",
+          "evidence_quote": "Today, with over 140 locations across 13 states and counting"
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Saw PCRK Group just added 36 Massage Envy locations, hitting 131 total \u2013 exciting growth! As Regional Ops Manager, coordinating across sites is crucial. Homebase streamlines scheduling and labor compliance.",
+          "evidence_url": "https://www.prnewswire.com/news-releases/pcrk-group-adds-36-massage-envy-locations-to-their-portfolio-becoming-the-largest-franchisee-302239744.html",
+          "evidence_quote": "acquisition of 36 Massage Envy locations, with 35 in Texas and one in New Mexico. This strategic acquisition solidifies PCRK Group as the largest franchisee in the Massage Envy system, now boasting an impressive 131 locations"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 8,
+    "model": "claude-sonnet-4",
+    "full_model": "openrouter/anthropic/claude-sonnet-4",
+    "timestamp": "2025-08-12T20-48-53",
+    "score": 0.7583333333333333,
+    "cost": 0.4720565079793599,
+    "performance_per_dollar": 1.6064460938784273,
+    "total_tokens": 130494,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Saw Bluestone Lane saved thousands of hours streamlining operations across 65 locations\u2014curious how you're tackling scheduling complexity in the Northeast?",
+          "evidence_url": "https://www.restaurantdive.com/spons/why-bluestone-lane-switched-to-square-to-run-its-65-locations/749768/",
+          "evidence_quote": "Bluestone Lane has saved thousands of hours by streamlining operations and are already seeing 50 percent faster ordering"
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "Managing talent across sweetgreen's 916 locations must be challenging\u2014how are you handling hourly scheduling and compliance at that scale?",
+          "evidence_url": "https://www.scrapehero.com/location-reports/Sweetgreen-USA/",
+          "evidence_quote": "There are 916 Sweetgreen restaurants in the United States as of June 23, 2025"
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "With 15,000 employees across 1,000+ Massage Envy locations, I imagine coordinating regional operations and compliance is quite complex.",
+          "evidence_url": "https://www.massagemag.com/massage-envy-big-brand-recognition-small-brand-feel-271385/",
+          "evidence_quote": "Today, there are about 15,000 total employees in the franchise network employed at over 1,000 individually owned and operated locations"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 10,
+    "model": "o3",
+    "full_model": "openrouter/openai/o3",
+    "timestamp": "2025-08-12T20-34-45",
+    "score": 0.7333333333333334,
+    "cost": 0.07577302229999999,
+    "performance_per_dollar": 9.678026704938935,
+    "total_tokens": 60127
+  },
+  {
+    "rank": 11,
+    "model": "grok-3",
+    "full_model": "openrouter/x-ai/grok-3",
+    "timestamp": "2025-08-12T20-54-24",
+    "score": 0.725,
+    "cost": 0.343601894,
+    "performance_per_dollar": 2.110000010651862,
+    "total_tokens": 58476,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Matthew, with Bluestone Lane\u2019s 20th NYC location on West Broadway, managing multi-site teams must be complex\u2014Homebase can simplify scheduling and compliance.",
+          "evidence_url": "https://tribecacitizen.com/2021/07/22/new-kid-on-the-block-bluestone-lane/",
+          "evidence_quote": "This is the chain\u2019s 20th (!) location in the city despite taking a huge hit during covid."
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "Isaac, with sweetgreen\u2019s 916 locations, including 180 in NY, staffing must be a challenge\u2014Homebase streamlines scheduling and payroll for multi-site teams.",
+          "evidence_url": "https://www.scrapehero.com/location-reports/Sweetgreen-USA/",
+          "evidence_quote": "There are 916 Sweetgreen restaurants in the United States as of June 23, 2025... New York, with 180 restaurants."
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Tiffany, with Massage Envy\u2019s nationwide footprint, operations must be demanding\u2014Homebase cuts labor chaos with simple scheduling and compliance tools.",
+          "evidence_url": "https://www.massageenvy.com/about-us?srsltid=AfmBOop40MFr-AbfOfoUj7ydrvTVxCAzjUOPCOuzWdHV-FSXwvFDzBCb",
+          "evidence_quote": "Massage Envy is a nationwide wellness franchise providing massage, stretch, and skin care services."
+        }
+      ]
+    }
+  },
+  {
+    "rank": 13,
+    "model": "gpt-4.1",
+    "full_model": "openrouter/openai/gpt-4.1",
+    "timestamp": "2025-08-12T20-33-11",
+    "score": 0.6791666666666667,
+    "cost": 0.07499155168215998,
+    "performance_per_dollar": 9.056575726625965,
+    "total_tokens": 10181,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Matthew, as VP of Northeast Operations at Bluestone Lane since 2020, you\u2019re no stranger to managing multi-location teams\u2014curious if streamlining labor costs and compliance is top of mind lately?",
+          "evidence_url": "https://theorg.com/org/bluestone-lane/org-chart/matthew-christy",
+          "evidence_quote": "Matthew Christy currently serves as Vice President of Northeast Operations at Bluestone Lane since November 2020."
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "Isaac, I saw your recent post about sweetgreen\u2019s tech innovation\u2014are you exploring new ways to simplify scheduling or payroll for your hourly teams as you grow?",
+          "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277/",
+          "evidence_quote": "Come be a part of technological innovation while changing how people eat! Shared by Isaac Reback"
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Tiffany, as Regional Sales and Marketing Manager at Massage Envy in Quincy, are you seeing any pain points around scheduling or compliance for your teams?",
+          "evidence_url": "https://www.linkedin.com/in/tiffany-porter-950b6095",
+          "evidence_quote": "Tiffany Porter, Regional Sales and Marketing Manager at Massage Envy, Quincy, Massachusetts"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 14,
+    "model": "gpt-5-mini",
+    "full_model": "openrouter/openai/gpt-5-mini",
+    "timestamp": "2025-08-12T20-29-00",
+    "score": 0.6416666666666667,
+    "cost": 0.07177143729144,
+    "performance_per_dollar": 8.940418234360713,
+    "total_tokens": 31820,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "I saw you\u2019ve been VP of Northeast Operations at Bluestone Lane since November 2020 \u2014 curious if Homebase could help cut labor cost and chaos across your Northeast cafes with simpler scheduling and time tracking.",
+          "evidence_url": "https://theorg.com/org/bluestone-lane/org-chart/matthew-christy",
+          "evidence_quote": "Vice President of Northeast Operations at Bluestone Lane since November 2020"
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "I noticed at sweetgreen in Los Angeles you\u2019ve been sharing posts about \"technological innovation\" changing how people eat \u2014 curious if Homebase could simplify scheduling and time-tracking across your restaurants.",
+          "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277/",
+          "evidence_quote": "Come be a part of technological innovation while changing how people eat!"
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Saw you\u2019re a Regional Sales & Marketing Manager at Massage Envy \u2014 since Massage Envy is a nationwide franchise, wanted to see if Homebase could standardize scheduling, payroll, and compliance across your locations.",
+          "evidence_url": "https://www.datanyze.com/people/Tiffany-Porter/2298070838",
+          "evidence_quote": "Tiffany Porter works as a Regional Sales & Marketing Manager at Massage Envy; Massage Envy is a national franchise"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 16,
+    "model": "o3-mini",
+    "full_model": "openrouter/openai/o3-mini",
+    "timestamp": "2025-08-12T20-37-06",
+    "score": 0.6,
+    "cost": 0.06939082034592,
+    "performance_per_dollar": 8.646676851620164,
+    "total_tokens": 14241,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Hi Matthew, as VP of Northeast Operations at Bluestone Lane since November 2020, Homebase simplifies scheduling, time tracking, and compliance for multi-location teams.",
+          "evidence_url": "https://theorg.com/org/bluestone-lane/org-chart/matthew-christy",
+          "evidence_quote": "Vice President of Northeast Operations at Bluestone Lane since November 2020"
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "Hi Isaac, with your role at sweetgreen and UC Santa Barbara background, Homebase can streamline scheduling, payroll, and compliance for multi-location hourly teams.",
+          "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277",
+          "evidence_quote": "Bachelor of Science degree from UC Santa Barbara"
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Hi Tiffany, based in Quincy, MA and as Massage Envy's Regional Sales and Marketing Manager, Homebase can reduce labor costs and chaos across your multi-location teams.",
+          "evidence_url": "https://www.linkedin.com/in/tiffany-porter-950b6095",
+          "evidence_quote": "Regional Sales and Marketing Manager at Massage Envy in Quincy, Massachusetts"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 18,
+    "model": "deepseek-r1",
+    "full_model": "openrouter/deepseek/deepseek-r1",
+    "timestamp": "2025-08-12T20-59-20",
+    "score": 0.5208333333333334,
+    "cost": 0.0760067589,
+    "performance_per_dollar": 6.852460766266582,
+    "total_tokens": 6820
+  },
+  {
+    "rank": 31,
+    "model": "gpt-5-nano",
+    "full_model": "openrouter/openai/gpt-5-nano",
+    "timestamp": "2025-08-12T20-31-26",
+    "score": 0.0,
+    "cost": 0.0453274762,
+    "performance_per_dollar": 0.0,
+    "total_tokens": 12005
+  }
+]

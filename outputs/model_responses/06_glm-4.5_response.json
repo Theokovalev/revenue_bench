@@ -1,0 +1,28 @@
+{
+  "model": "glm-4.5",
+  "rank": 6,
+  "score": 0.779,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "I saw your post about leading financial strategy with the 49ers \u2013 managing multiple locations must be complex. Have you explored how Homebase simplifies scheduling across sites?",
+        "evidence_url": "https://www.linkedin.com/in/matthew-christy-62ba7440/",
+        "evidence_quote": "Almost 11 years in\u2026 and I\u2019ve never been hungrier. Leading financial strategy with the 49ers. Building high-performing teams. Helping shape the\u2026"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "I noticed sweetgreen's focus on changing how people eat through innovation. With your background in Environmental Studies, you must see how labor management impacts sustainability goals.",
+        "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277/",
+        "evidence_quote": "I hold a Bachelor of Science degree from UC Santa Barbara in Environmental Studies, and a\u2026"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "As Regional Sales and Marketing Manager for Massage Envy in Quincy, you probably deal with coordinating staff across multiple locations. How do you manage scheduling at each site?",
+        "evidence_url": "https://www.linkedin.com/in/tiffany-porter-950b6095/",
+        "evidence_quote": "Regional Sales and Marketing Manager at Massage Envy\nQuincy, Massachusetts, United States, US"
+      }
+    ]
+  },
+  "tool_calls": 5
+}

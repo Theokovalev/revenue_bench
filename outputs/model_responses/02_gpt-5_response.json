@@ -1,0 +1,28 @@
+{
+  "model": "gpt-5",
+  "rank": 2,
+  "score": 0.8208333333333333,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Impressed Bluestone Lane rolled out Square across 65 locations\u2014are you also simplifying scheduling, time clocks, and compliance for your Northeast cafes? Homebase cuts labor cost and chaos across multi-location hourly teams.",
+        "evidence_url": "https://www.restaurantdive.com/spons/why-bluestone-lane-switched-to-square-to-run-its-65-locations/749768/",
+        "evidence_quote": "Bluestone Lane recently updated its legacy point-of-sale system and rolled out Square\u2019s all-in-one technology platform across its 65 locations."
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "With sweetgreen at 246 restaurants by FY 2024, how are you standardizing scheduling and time tracking as you scale? Homebase helps multi-location hourly teams cut labor cost and compliance chaos.",
+        "evidence_url": "https://www.qsrmagazine.com/growth/finance/automation-unpacks-the-infinite-potential-of-sweetgreen/",
+        "evidence_quote": "Since its 2021 IPO, Sweetgreen has climbed to 246 restaurants (fiscal year-end 2024)."
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "With Massage Envy\u2019s 1,176+ locations across 49 states, how are you keeping scheduling, time clocks, and labor-law compliance consistent regionally? Homebase helps cut labor cost and chaos for multi-location hourly teams.",
+        "evidence_url": "https://www.franchisesolutions.com/franchise/massage-envy",
+        "evidence_quote": "Today Massage Envy has more that 1,176+ locations in 49 U.S. states and 2 international"
+      }
+    ]
+  },
+  "tool_calls": 10
+}

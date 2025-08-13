@@ -1,0 +1,28 @@
+{
+  "model": "llama-3.1-70b-instruct",
+  "rank": 25,
+  "score": 0.433,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Your recent expansion into Canada with Bluestone Lane reminds me of Homebase's multi-location support.",
+        "evidence_url": "https://www.linkedin.com/in/matthew-christy-62ba7440/",
+        "evidence_quote": "Expanded Bluestone Lane into Canada"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "As a Talent Resourcing Specialist at sweetgreen, I'm sure you'd appreciate Homebase's labor-law compliance features.",
+        "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277/",
+        "evidence_quote": "Talent Resourcing Specialist at sweetgreen"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Managing 26 Massage Envy locations, I bet Homebase's simple scheduling and time tracking could save you time.",
+        "evidence_url": "https://www.linkedin.com/in/tiffany-porter-95462095/",
+        "evidence_quote": "Regional Operations Manager at Massage Envy, managing 26 locations"
+      }
+    ]
+  },
+  "tool_calls": 0
+}

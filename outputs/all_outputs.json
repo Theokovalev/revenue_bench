@@ -1,0 +1,134 @@
+[
+  {
+    "rank": 1,
+    "model": "claude-opus-4.1",
+    "full_model": "openrouter/anthropic/claude-opus-4.1",
+    "timestamp": "2025-08-12T20-42-00",
+    "score": 0.8250000000000001,
+    "cost": 2.0919524156,
+    "performance_per_dollar": 0.39436843488783613,
+    "model_response": "I'll research each prospect to find specific, verifiable details and craft personalized first lines. Let me start by searching for information about each person and their companies."
+  },
+  {
+    "rank": 2,
+    "model": "gpt-5",
+    "full_model": "openrouter/openai/gpt-5",
+    "timestamp": "2025-08-12T20-24-48",
+    "score": 0.8208333333333333,
+    "cost": 0.0801284795,
+    "performance_per_dollar": 10.243964923025068,
+    "model_response": [
+      {
+        "type": "reasoning",
+        "reasoning": "**Extracting franchise details**\n\nI need to verify details from Massage Envy corporate about the number of franchise locations, which might be \"more than 1,100\" or \"1,000+.\" The corporate \"About\" page mentions 1,000 nationwide locations and over 100 million services. I think I'll use tavily_extract for that page. There\u2019s also the press release mentioning \"two decades of excellence\" and over 1,100 locations. But for safety, I should stick to the official page. I'll extract and ensure the JSON aligns correctly!",
+        "redacted": false
+      },
+      {
+        "type": "text",
+        "text": ""
+      }
+    ]
+  },
+  {
+    "rank": 3,
+    "model": "gemini-2.5-flash",
+    "full_model": "openrouter/google/gemini-2.5-flash",
+    "timestamp": "2025-08-12T20-52-21",
+    "score": 0.7999999999999999,
+    "cost": 0.08431022683968001,
+    "performance_per_dollar": 9.488765835267396,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Saw Bluestone Lane has grown to 58 locations! With that many, managing hourly teams across all of them must be a huge undertaking. How are you currently handling that?",
+          "evidence_url": "https://bluestonelane.com/press/named-among-restaurant-business-fastest-growing/",
+          "evidence_quote": "It has since grown to 58 locations and has plans for more."
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "With sweetgreen expanding to over 225 locations across the U.S., I imagine you're constantly hiring. How are you streamlining onboarding and labor compliance across all those new hires?",
+          "evidence_url": "https://careers.sweetgreen.com/faq/what-is-sweetgreen-",
+          "evidence_quote": "Since opening our first 560-square-foot location in 2007, we have expanded to over 225 locations across the U.S."
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Knowing Massage Envy has over 1,176 locations, I can only imagine the complexities of managing regional operations. How do you ensure consistent scheduling and compliance across so many sites?",
+          "evidence_url": "https://www.franchisesolutions.com/franchise/massage-envy",
+          "evidence_quote": "Today Massage Envy has more that 1,176+ locations in 49 U.S. states and 2 international, making it the largest massage therapy and skincare franchise in the industry"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 4,
+    "model": "claude-opus-4",
+    "full_model": "openrouter/anthropic/claude-opus-4",
+    "timestamp": "2025-08-12T20-45-30",
+    "score": 0.7875,
+    "cost": 0.98269796974584,
+    "performance_per_dollar": 0.8013652457261868,
+    "model_response": "I'll help you create personalized first lines for each prospect. Let me start by searching for information about each person and their companies, then verify specific details."
+  },
+  {
+    "rank": 7,
+    "model": "grok-4",
+    "full_model": "openrouter/x-ai/grok-4",
+    "timestamp": "2025-08-12T20-56-15",
+    "score": 0.775,
+    "cost": 0.3114083479148799,
+    "performance_per_dollar": 2.4886937206058386,
+    "model_response": {
+      "prospects": [
+        {
+          "name": "Matthew Christy",
+          "first_line": "Congrats on Bluestone Lane's growth to 65 locations across 10 markets \u2013 as VP of Northeast Operations, managing teams must be intense. Homebase simplifies scheduling and payroll for multi-location hourly crews.",
+          "evidence_url": "https://dailycoffeenews.com/2024/10/29/new-ceo-for-new-york-based-coffee-chain-bluestone-lane/",
+          "evidence_quote": "Stone oversaw Bluestone Lane\u2019s growth from a single location to the current 65 locations in 10 U.S. markets."
+        },
+        {
+          "name": "Isaac Reback",
+          "first_line": "Impressive that sweetgreen has over 140 locations across 13 states now \u2013 as Talent Resourcing Specialist, staffing those spots must keep you busy. Homebase cuts chaos with easy time tracking and compliance.",
+          "evidence_url": "https://www.sweetgreen.com/rewrite-the-future-of-food-with-us",
+          "evidence_quote": "Today, with over 140 locations across 13 states and counting"
+        },
+        {
+          "name": "Tiffany Porter",
+          "first_line": "Saw PCRK Group just added 36 Massage Envy locations, hitting 131 total \u2013 exciting growth! As Regional Ops Manager, coordinating across sites is crucial. Homebase streamlines scheduling and labor compliance.",
+          "evidence_url": "https://www.prnewswire.com/news-releases/pcrk-group-adds-36-massage-envy-locations-to-their-portfolio-becoming-the-largest-franchisee-302239744.html",
+          "evidence_quote": "acquisition of 36 Massage Envy locations, with 35 in Texas and one in New Mexico. This strategic acquisition solidifies PCRK Group as the largest franchisee in the Massage Envy system, now boasting an impressive 131 locations"
+        }
+      ]
+    }
+  },
+  {
+    "rank": 8,
+    "model": "claude-sonnet-4",
+    "full_model": "openrouter/anthropic/claude-sonnet-4",
+    "timestamp": "2025-08-12T20-48-53",
+    "score": 0.7583333333333333,
+    "cost": 0.4720565079793599,
+    "performance_per_dollar": 1.6064460938784273,
+    "model_response": "I'll research each prospect and their companies to find specific, verifiable details that can bridge to Homebase's value proposition. Let me start by searching for information about each prospect and their companies."
+  },
+  {
+    "rank": 10,
+    "model": "o3",
+    "full_model": "openrouter/openai/o3",
+    "timestamp": "2025-08-12T20-34-45",
+    "score": 0.7333333333333334,
+    "cost": 0.07577302229999999,
+    "performance_per_dollar": 9.678026704938935,
+    "model_response": [
+      {
+        "type": "reasoning",
+        "reasoning": "**Crafting an Intro Line**\n\nI'm working on a first line for Matthew that acknowledges his role as VP of Northeast Operations at Bluestone Lane since November 2020. I want to ask how he's managing labor costs and scheduling without immediately mentioning Homebase. I think I can naturally reference the potential for cost-saving assistance. I\u2019ll aim for about 28-35 words, making sure it connects smoothly while planting the idea of how Homebase could help.**Drafting Intro Lines**\n\nI\u2019m crafting a concise introduction for Matthew and Isaac, keeping the word count in mind. For Matthew, I acknowledge his role at Bluestone Lane and ask about managing labor costs and scheduling. This line comes in at 32 words, which works!\n\nNext, for Isaac, I'll highlight his role as a Talent Resourcing Specialist at sweetgreen. I'll frame a question about staffing challenges while introducing Homebase's tools. That's a 31-word line, which is also great. \n\nFor Tiffany, I'll reference her marketing role while addressing scheduling across multiple spas, adapting to her title.**Crafting Tiffany's Intro Line**\n\nI'm working on a first line for Tiffany, aiming to capture her role as the Regional Sales & Marketing Manager at Massage Envy. I want to ask about the impact of staffing issues and time-card headaches on member experience, and how Homebase\u2019s platform might help alleviate this. I\u2019ve crafted a 33-word question, which feels strong. I need to ensure the quotes and evidence are correctly formatted for the final output, referencing the evidence I have.",
+        "redacted": false
+      },
+      {
+        "type": "text",
+        "text": "{\n  \"prospects\": [\n    {\n      \"name\": \"Matthew Christy\",\n      \"first_line\": \"Matthew, since stepping into Bluestone Lane\u2019s VP of Northeast Ops in Nov 2020, are labor-cost spikes and schedule juggling across all those caf\u00e9s keeping you up\u2014or could a simpler Homebase workflow help?\",\n      \"evidence_url\": \"https://theorg.com/org/bluestone-lane/org-chart/matthew-christy\",\n      \"evidence_quote\": \"Matthew Christy currently serves as Vice President of Northeast Operations at Bluestone Lane since November 2020\"\n    },\n    {\n      \"name\": \"Isaac Reback\",\n      \"first_line\": \"Isaac, as sweetgreen\u2019s LA-based Talent Resourcing Specialist, juggling staffing for dozens of salad bars must be a daily puzzle\u2014have you explored Homebase\u2019s scheduling and compliance tools built for high-volume hourly teams?\",\n      \"evidence_url\": \"https://rocketreach.co/isaac-reback-email_12994481\",\n      \"evidence_quote\": \"Isaac Reback, based in Los Angeles, CA, US, is currently a Talent Resourcing Specialist at sweetgreen.\"\n    },\n    {\n      \"name\": \"Tiffany Porter\",\n      \"first_line\": \"Tiffany, in your role as Regional Sales & Marketing Manager at Massage Envy, are staffing gaps and time-card headaches across your spas hurting member experience\u2014or could Homebase\u2019s all-in-one labor platform relieve the tension?\",\n      \"evidence_url\": \"https://www.datanyze.com/people/Tiffany-Porter/2298070838\",\n      \"evidence_quote\": \"Tiffany Porter works as a Regional Sales & Marketing Manager at Massage Envy\"\n    }\n  ]\n}"
+      }
+    ]
+  }
+]

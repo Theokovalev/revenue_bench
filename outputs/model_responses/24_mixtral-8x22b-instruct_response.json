@@ -1,0 +1,28 @@
+{
+  "model": "mixtral-8x22b-instruct",
+  "rank": 24,
+  "score": 0.438,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "I noticed Bluestone Lane's rapid expansion and Matthew, I know managing multi-location operations can be chaotic. That's why I'd like to show you how Homebase simplifies scheduling, time tracking, and payroll for businesses like yours.",
+        "evidence_url": "https://www.bluestonelane.com/",
+        "evidence_quote": null
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "At sweetgreen, you're focused on empowering healthier communities, and I understand how crucial it is to have a well-coordinated team to achieve that. I'd like to present Homebase as a tool that streamlines scheduling, time tracking, and labor cost management for your growing workforce.",
+        "evidence_url": "https://www.sweetgreen.com/",
+        "evidence_quote": null
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "As a Regional Operations Manager at Massage Envy, I know you're dedicated to creating a seamless experience for clients and franchisees. I'd like to introduce Homebase, a platform that can help you manage scheduling, time tracking, and compliance with labor laws across multiple locations with ease.",
+        "evidence_url": "https://www.massageenvy.com/",
+        "evidence_quote": null
+      }
+    ]
+  },
+  "tool_calls": 0
+}

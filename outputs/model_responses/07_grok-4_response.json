@@ -1,0 +1,28 @@
+{
+  "model": "grok-4",
+  "rank": 7,
+  "score": 0.775,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Congrats on Bluestone Lane's growth to 65 locations across 10 markets \u2013 as VP of Northeast Operations, managing teams must be intense. Homebase simplifies scheduling and payroll for multi-location hourly crews.",
+        "evidence_url": "https://dailycoffeenews.com/2024/10/29/new-ceo-for-new-york-based-coffee-chain-bluestone-lane/",
+        "evidence_quote": "Stone oversaw Bluestone Lane\u2019s growth from a single location to the current 65 locations in 10 U.S. markets."
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Impressive that sweetgreen has over 140 locations across 13 states now \u2013 as Talent Resourcing Specialist, staffing those spots must keep you busy. Homebase cuts chaos with easy time tracking and compliance.",
+        "evidence_url": "https://www.sweetgreen.com/rewrite-the-future-of-food-with-us",
+        "evidence_quote": "Today, with over 140 locations across 13 states and counting"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Saw PCRK Group just added 36 Massage Envy locations, hitting 131 total \u2013 exciting growth! As Regional Ops Manager, coordinating across sites is crucial. Homebase streamlines scheduling and labor compliance.",
+        "evidence_url": "https://www.prnewswire.com/news-releases/pcrk-group-adds-36-massage-envy-locations-to-their-portfolio-becoming-the-largest-franchisee-302239744.html",
+        "evidence_quote": "acquisition of 36 Massage Envy locations, with 35 in Texas and one in New Mexico. This strategic acquisition solidifies PCRK Group as the largest franchisee in the Massage Envy system, now boasting an impressive 131 locations"
+      }
+    ]
+  },
+  "tool_calls": 10
+}

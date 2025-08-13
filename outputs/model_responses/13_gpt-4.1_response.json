@@ -1,0 +1,28 @@
+{
+  "model": "gpt-4.1",
+  "rank": 13,
+  "score": 0.6791666666666667,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Matthew, as VP of Northeast Operations at Bluestone Lane since 2020, you\u2019re no stranger to managing multi-location teams\u2014curious if streamlining labor costs and compliance is top of mind lately?",
+        "evidence_url": "https://theorg.com/org/bluestone-lane/org-chart/matthew-christy",
+        "evidence_quote": "Matthew Christy currently serves as Vice President of Northeast Operations at Bluestone Lane since November 2020."
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Isaac, I saw your recent post about sweetgreen\u2019s tech innovation\u2014are you exploring new ways to simplify scheduling or payroll for your hourly teams as you grow?",
+        "evidence_url": "https://www.linkedin.com/in/isaac-reback-3a136277/",
+        "evidence_quote": "Come be a part of technological innovation while changing how people eat! Shared by Isaac Reback"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "Tiffany, as Regional Sales and Marketing Manager at Massage Envy in Quincy, are you seeing any pain points around scheduling or compliance for your teams?",
+        "evidence_url": "https://www.linkedin.com/in/tiffany-porter-950b6095",
+        "evidence_quote": "Tiffany Porter, Regional Sales and Marketing Manager at Massage Envy, Quincy, Massachusetts"
+      }
+    ]
+  },
+  "tool_calls": 7
+}

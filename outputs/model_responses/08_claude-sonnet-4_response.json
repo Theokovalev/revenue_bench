@@ -1,0 +1,28 @@
+{
+  "model": "claude-sonnet-4",
+  "rank": 8,
+  "score": 0.7583333333333333,
+  "response": {
+    "prospects": [
+      {
+        "name": "Matthew Christy",
+        "first_line": "Saw Bluestone Lane saved thousands of hours streamlining operations across 65 locations\u2014curious how you're tackling scheduling complexity in the Northeast?",
+        "evidence_url": "https://www.restaurantdive.com/spons/why-bluestone-lane-switched-to-square-to-run-its-65-locations/749768/",
+        "evidence_quote": "Bluestone Lane has saved thousands of hours by streamlining operations and are already seeing 50 percent faster ordering"
+      },
+      {
+        "name": "Isaac Reback",
+        "first_line": "Managing talent across sweetgreen's 916 locations must be challenging\u2014how are you handling hourly scheduling and compliance at that scale?",
+        "evidence_url": "https://www.scrapehero.com/location-reports/Sweetgreen-USA/",
+        "evidence_quote": "There are 916 Sweetgreen restaurants in the United States as of June 23, 2025"
+      },
+      {
+        "name": "Tiffany Porter",
+        "first_line": "With 15,000 employees across 1,000+ Massage Envy locations, I imagine coordinating regional operations and compliance is quite complex.",
+        "evidence_url": "https://www.massagemag.com/massage-envy-big-brand-recognition-small-brand-feel-271385/",
+        "evidence_quote": "Today, there are about 15,000 total employees in the franchise network employed at over 1,000 individually owned and operated locations"
+      }
+    ]
+  },
+  "tool_calls": 11
+}

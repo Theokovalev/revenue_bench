@@ -1,0 +1,320 @@
+{
+  "metadata": {
+    "version": "0.1.0",
+    "updated": "2025-08-13",
+    "total_models": 33,
+    "total_cost": 6.11,
+    "evaluation_date": "2025-08-12"
+  },
+  "leaderboard": [
+    {
+      "rank": 1,
+      "model": "claude-opus-4.1",
+      "full_model": "openrouter/anthropic/claude-opus-4.1",
+      "score": 0.825,
+      "cost_per_eval": 2.09,
+      "performance_per_dollar": 0.39,
+      "timestamp": "2025-08-12T20-42-00"
+    },
+    {
+      "rank": 2,
+      "model": "gpt-5",
+      "full_model": "openrouter/openai/gpt-5",
+      "score": 0.821,
+      "cost_per_eval": 0.08,
+      "performance_per_dollar": 10.24,
+      "timestamp": "2025-08-12T20-24-48"
+    },
+    {
+      "rank": 3,
+      "model": "gemini-2.5-flash",
+      "full_model": "openrouter/google/gemini-2.5-flash",
+      "score": 0.800,
+      "cost_per_eval": 0.08,
+      "performance_per_dollar": 9.49,
+      "timestamp": "2025-08-12T20-52-21"
+    },
+    {
+      "rank": 4,
+      "model": "claude-opus-4",
+      "full_model": "openrouter/anthropic/claude-opus-4",
+      "score": 0.788,
+      "cost_per_eval": 0.98,
+      "performance_per_dollar": 0.80,
+      "timestamp": "2025-08-12T20-45-30"
+    },
+    {
+      "rank": 5,
+      "model": "gpt-oss-120b",
+      "full_model": "openrouter/openai/gpt-oss-120b",
+      "score": 0.787,
+      "cost_per_eval": 0.004,
+      "performance_per_dollar": 203.91,
+      "timestamp": "2025-08-13T09-32-32"
+    },
+    {
+      "rank": 6,
+      "model": "glm-4.5",
+      "full_model": "openrouter/z-ai/glm-4.5",
+      "score": 0.779,
+      "cost_per_eval": 0.12,
+      "performance_per_dollar": 6.44,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 7,
+      "model": "grok-4",
+      "full_model": "openrouter/x-ai/grok-4",
+      "score": 0.775,
+      "cost_per_eval": 0.31,
+      "performance_per_dollar": 2.49,
+      "timestamp": "2025-08-12T20-56-15"
+    },
+    {
+      "rank": 8,
+      "model": "claude-sonnet-4",
+      "full_model": "openrouter/anthropic/claude-sonnet-4",
+      "score": 0.758,
+      "cost_per_eval": 0.47,
+      "performance_per_dollar": 1.61,
+      "timestamp": "2025-08-12T20-48-53"
+    },
+    {
+      "rank": 9,
+      "model": "kimi-k2",
+      "full_model": "openrouter/moonshotai/kimi-k2",
+      "score": 0.746,
+      "cost_per_eval": 0.09,
+      "performance_per_dollar": 7.91,
+      "timestamp": "2025-08-13T09-32-32"
+    },
+    {
+      "rank": 10,
+      "model": "o3",
+      "full_model": "openrouter/openai/o3",
+      "score": 0.733,
+      "cost_per_eval": 0.08,
+      "performance_per_dollar": 9.68,
+      "timestamp": "2025-08-12T20-34-45"
+    },
+    {
+      "rank": 11,
+      "model": "grok-3",
+      "full_model": "openrouter/x-ai/grok-3",
+      "score": 0.725,
+      "cost_per_eval": 0.34,
+      "performance_per_dollar": 2.11,
+      "timestamp": "2025-08-12T20-54-24"
+    },
+    {
+      "rank": 12,
+      "model": "glm-4-32b",
+      "full_model": "openrouter/z-ai/glm-4-32b",
+      "score": 0.721,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 10.45,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 13,
+      "model": "gpt-4.1",
+      "full_model": "openrouter/openai/gpt-4.1",
+      "score": 0.679,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 9.06,
+      "timestamp": "2025-08-12T20-33-11"
+    },
+    {
+      "rank": 14,
+      "model": "gpt-5-mini",
+      "full_model": "openrouter/openai/gpt-5-mini",
+      "score": 0.642,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 8.94,
+      "timestamp": "2025-08-12T20-29-00"
+    },
+    {
+      "rank": 15,
+      "model": "gemini-2.5-flash-lite",
+      "full_model": "openrouter/google/gemini-2.5-flash-lite",
+      "score": 0.629,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 9.58,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 16,
+      "model": "o3-mini",
+      "full_model": "openrouter/openai/o3-mini",
+      "score": 0.600,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 8.65,
+      "timestamp": "2025-08-12T20-37-06"
+    },
+    {
+      "rank": 17,
+      "model": "qwen3-235b-a22b-thinking-2507",
+      "full_model": "openrouter/qwen/qwen3-235b-a22b-thinking-2507",
+      "score": 0.546,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 8.19,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 18,
+      "model": "deepseek-r1",
+      "full_model": "openrouter/deepseek/deepseek-r1",
+      "score": 0.521,
+      "cost_per_eval": 0.08,
+      "performance_per_dollar": 6.85,
+      "timestamp": "2025-08-12T20-59-20"
+    },
+    {
+      "rank": 19,
+      "model": "qwen3-30b-a3b-instruct-2507",
+      "full_model": "openrouter/qwen/qwen3-30b-a3b-instruct-2507",
+      "score": 0.513,
+      "cost_per_eval": 0.06,
+      "performance_per_dollar": 8.34,
+      "timestamp": "2025-08-13T09-32-32"
+    },
+    {
+      "rank": 20,
+      "model": "sonar-pro",
+      "full_model": "openrouter/perplexity/sonar-pro",
+      "score": 0.471,
+      "cost_per_eval": 0.08,
+      "performance_per_dollar": 5.68,
+      "timestamp": "2025-08-13T09-32-32"
+    },
+    {
+      "rank": 21,
+      "model": "qwen-2.5-72b-instruct",
+      "full_model": "openrouter/qwen/qwen-2.5-72b-instruct",
+      "score": 0.462,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 6.88,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 22,
+      "model": "gemma-3-27b-it",
+      "full_model": "openrouter/google/gemma-3-27b-it",
+      "score": 0.458,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 6.22,
+      "timestamp": "2025-08-13T09-32-32"
+    },
+    {
+      "rank": 23,
+      "model": "jamba-large-1.7",
+      "full_model": "openrouter/ai21/jamba-large-1.7",
+      "score": 0.454,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 6.59,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 24,
+      "model": "mixtral-8x22b-instruct",
+      "full_model": "openrouter/mistralai/mixtral-8x22b-instruct",
+      "score": 0.438,
+      "cost_per_eval": 0.06,
+      "performance_per_dollar": 6.78,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 25,
+      "model": "llama-3.1-70b-instruct",
+      "full_model": "openrouter/meta-llama/llama-3.1-70b-instruct",
+      "score": 0.433,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 5.81,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 26,
+      "model": "mixtral-8x7b-instruct",
+      "full_model": "openrouter/mistralai/mixtral-8x7b-instruct",
+      "score": 0.429,
+      "cost_per_eval": 0.06,
+      "performance_per_dollar": 6.64,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 27,
+      "model": "llama-4-maverick",
+      "full_model": "openrouter/meta-llama/llama-4-maverick",
+      "score": 0.408,
+      "cost_per_eval": 0.06,
+      "performance_per_dollar": 6.69,
+      "timestamp": "2025-08-13T09-32-32"
+    },
+    {
+      "rank": 28,
+      "model": "jamba-mini-1.7",
+      "full_model": "openrouter/ai21/jamba-mini-1.7",
+      "score": 0.308,
+      "cost_per_eval": 0.07,
+      "performance_per_dollar": 4.40,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 29,
+      "model": "gpt-oss-20b",
+      "full_model": "openrouter/openai/gpt-oss-20b",
+      "score": 0.025,
+      "cost_per_eval": 0.04,
+      "performance_per_dollar": 0.57,
+      "timestamp": "2025-08-13T09-32-32"
+    },
+    {
+      "rank": 30,
+      "model": "gemini-2.5-pro",
+      "full_model": "openrouter/google/gemini-2.5-pro",
+      "score": 0.025,
+      "cost_per_eval": 0.08,
+      "performance_per_dollar": 0.31,
+      "timestamp": "2025-08-13T09-32-32"
+    },
+    {
+      "rank": 31,
+      "model": "gpt-5-nano",
+      "full_model": "openrouter/openai/gpt-5-nano",
+      "score": 0.000,
+      "cost_per_eval": 0.05,
+      "performance_per_dollar": 0.00,
+      "timestamp": "2025-08-12T20-31-26"
+    },
+    {
+      "rank": 32,
+      "model": "grok-3-mini",
+      "full_model": "openrouter/x-ai/grok-3-mini",
+      "score": 0.000,
+      "cost_per_eval": 0.05,
+      "performance_per_dollar": 0.00,
+      "timestamp": "2025-08-13T08-20-28"
+    },
+    {
+      "rank": 33,
+      "model": "glm-4.5-air:free",
+      "full_model": "openrouter/z-ai/glm-4.5-air:free",
+      "score": 0.000,
+      "cost_per_eval": 0.05,
+      "performance_per_dollar": 0.00,
+      "timestamp": "2025-08-13T08-20-28"
+    }
+  ],
+  "summary": {
+    "best_overall": "claude-opus-4.1",
+    "best_value": "gpt-oss-120b",
+    "most_expensive": "claude-opus-4.1",
+    "least_expensive": "gpt-oss-120b",
+    "average_score": 0.524,
+    "median_score": 0.546,
+    "total_models_evaluated": 33,
+    "models_above_70_percent": 11,
+    "models_above_50_percent": 18,
+    "models_that_failed": 3
+  }
+}

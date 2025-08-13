@@ -193,7 +193,7 @@ Running comprehensive AI evaluations is expensive:
 - **Share**: Spread the word about transparent AI evaluation
 - **Donate**: Help cover API and infrastructure costs
 
-**[Support Revenue Bench → https://ko-fi.com/fedorkovalev](#)**
+**[Support Revenue Bench →] https://ko-fi.com/fedorkovalev(#)**
 
 ## 📧 Contact
 
